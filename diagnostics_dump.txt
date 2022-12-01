@@ -1,0 +1,897 @@
+
+Proxy running on port 5000
+URL {
+  href: 'http://localhost:5000/job-board',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/job-board',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/theme/colors.css',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/theme/colors.css',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/styles.css',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/styles.css',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/widgets/jobs/jobs.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/widgets/jobs/jobs.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/runtime.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/runtime.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/polyfills.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/polyfills.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/scripts.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/scripts.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/vendor.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/vendor.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/main.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/main.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/styles.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/styles.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/i18n/en-us/default.json',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/i18n/en-us/default.json',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/landing-page-landing-page-module.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/landing-page-landing-page-module.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~admin-admin-module~career-assessment-career-assessment-module~career-explorer-career-explore~cd445c1d.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~admin-admin-module~career-assessment-career-assessment-module~career-explorer-career-explore~cd445c1d.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~admin-admin-module~career-assessment-career-assessment-module~career-explorer-career-explore~53f04701.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~admin-admin-module~career-assessment-career-assessment-module~career-explorer-career-explore~53f04701.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~admin-admin-module~case-management-case-management-module~employers-employers-module~guided-~2a014ca2.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~admin-admin-module~case-management-case-management-module~employers-employers-module~guided-~2a014ca2.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~admin-admin-module~career-assessment-career-assessment-module~career-explorer-career-explore~58c5bafc.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~admin-admin-module~career-assessment-career-assessment-module~career-explorer-career-explore~58c5bafc.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~admin-admin-module~career-explorer-career-explorer-module~case-management-case-management-mo~19b604ad.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~admin-admin-module~career-explorer-career-explorer-module~case-management-case-management-mo~19b604ad.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~admin-admin-module~guided-pathways-guided-pathways-module~job-board-job-board-module~statist~c5ada581.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~admin-admin-module~guided-pathways-guided-pathways-module~job-board-job-board-module~statist~c5ada581.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~admin-admin-module~job-board-job-board-module~statistics-view-statistics-view-module.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~admin-admin-module~job-board-job-board-module~statistics-view-statistics-view-module.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~career-explorer-career-explorer-module~guided-pathways-guided-pathways-module~job-board-job-~375f221c.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~career-explorer-career-explorer-module~guided-pathways-guided-pathways-module~job-board-job-~375f221c.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~guided-pathways-guided-pathways-module~job-board-job-board-module.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~guided-pathways-guided-pathways-module~job-board-job-board-module.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/job-board-job-board-module.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/job-board-job-board-module.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/sockjs-node/info?t=1669904728223',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/sockjs-node/info',
+  search: '?t=1669904728223',
+  searchParams: URLSearchParams { 't' => '1669904728223' },
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/icon/dashboard-24px.svg',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/icon/dashboard-24px.svg',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/icon/work-24px.svg',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/icon/work-24px.svg',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/icon/arrow-social.svg',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/icon/arrow-social.svg',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/icon/jobspeaker.svg',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/icon/jobspeaker.svg',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/img/job-board-header.png',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/img/job-board-header.png',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/sockjs-node/194/pub3d1sf/websocket',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/sockjs-node/194/pub3d1sf/websocket',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/icon/person-24px.svg',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/icon/person-24px.svg',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/icon/notice-24px.svg',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/icon/notice-24px.svg',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/sockjs-node/194/ohahey2o/xhr_streaming?t=1669904734743',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/sockjs-node/194/ohahey2o/xhr_streaming',
+  search: '?t=1669904734743',
+  searchParams: URLSearchParams { 't' => '1669904734743' },
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/theme/colors.css',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/theme/colors.css',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/styles.css',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/styles.css',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/runtime.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/runtime.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/widgets/jobs/jobs.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/widgets/jobs/jobs.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/polyfills.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/polyfills.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/styles.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/styles.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/scripts.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/scripts.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/vendor.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/vendor.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/main.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/main.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/i18n/en-us/default.json',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/i18n/en-us/default.json',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/landing-page-landing-page-module.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/landing-page-landing-page-module.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/sockjs-node/info?t=1669904734991',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/sockjs-node/info',
+  search: '?t=1669904734991',
+  searchParams: URLSearchParams { 't' => '1669904734991' },
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/sockjs-node/602/hqddy2ej/websocket',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/sockjs-node/602/hqddy2ej/websocket',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~admin-admin-module~career-assessment-career-assessment-module~career-explorer-career-explore~cd445c1d.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~admin-admin-module~career-assessment-career-assessment-module~career-explorer-career-explore~cd445c1d.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~admin-admin-module~career-assessment-career-assessment-module~career-explorer-career-explore~53f04701.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~admin-admin-module~career-assessment-career-assessment-module~career-explorer-career-explore~53f04701.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~admin-admin-module~case-management-case-management-module~employers-employers-module~guided-~2a014ca2.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~admin-admin-module~case-management-case-management-module~employers-employers-module~guided-~2a014ca2.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~admin-admin-module~career-assessment-career-assessment-module~career-explorer-career-explore~58c5bafc.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~admin-admin-module~career-assessment-career-assessment-module~career-explorer-career-explore~58c5bafc.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~admin-admin-module~career-explorer-career-explorer-module~case-management-case-management-mo~19b604ad.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~admin-admin-module~career-explorer-career-explorer-module~case-management-case-management-mo~19b604ad.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~admin-admin-module~guided-pathways-guided-pathways-module~job-board-job-board-module~statist~c5ada581.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~admin-admin-module~guided-pathways-guided-pathways-module~job-board-job-board-module~statist~c5ada581.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~admin-admin-module~job-board-job-board-module~statistics-view-statistics-view-module.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~admin-admin-module~job-board-job-board-module~statistics-view-statistics-view-module.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~career-explorer-career-explorer-module~guided-pathways-guided-pathways-module~job-board-job-~375f221c.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~career-explorer-career-explorer-module~guided-pathways-guided-pathways-module~job-board-job-~375f221c.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/default~guided-pathways-guided-pathways-module~job-board-job-board-module.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/default~guided-pathways-guided-pathways-module~job-board-job-board-module.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/job-board-job-board-module.js',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/job-board-job-board-module.js',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/icon/jobspeaker.svg',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/icon/jobspeaker.svg',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/icon/arrow-social.svg',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/icon/arrow-social.svg',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/img/job-board-header.png',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/img/job-board-header.png',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/icon/work-24px.svg',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/icon/work-24px.svg',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/icon/dashboard-24px.svg',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/icon/dashboard-24px.svg',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/icon/person-24px.svg',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/icon/person-24px.svg',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/assets/icon/notice-24px.svg',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/assets/icon/notice-24px.svg',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:5000/sockjs-node/602/xn44zksf/xhr_streaming?t=1669904738390',
+  origin: 'http://localhost:5000',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:5000',
+  hostname: 'localhost',
+  port: '5000',
+  pathname: '/sockjs-node/602/xn44zksf/xhr_streaming',
+  search: '?t=1669904738390',
+  searchParams: URLSearchParams { 't' => '1669904738390' },
+  hash: ''
