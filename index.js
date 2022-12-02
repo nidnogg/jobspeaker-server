@@ -8,34 +8,35 @@ const proxy = httpProxy.createServer()
 const jobspeakerUrl = 'http://localhost:8000'
 const eventsUrl = 'http://localhost:4200'
 const jobspeakerPrefix = '/#'
+const eventsPrefix = '/v2'
+
 const port = 5000
 
 http.createServer((req, res) => {
     let target = eventsUrl
     const parsedUrl = new URL(req.url, `http://${req.headers.host}/`)
-    if (parsedUrl.pathname.includes('#')) {
-        console.log('beep')
-    }
+    console.log(parsedUrl)
     if (parsedUrl.pathname.startsWith(jobspeakerPrefix)) {
         // req.url = req.url.replace('/#', '/')
         target = jobspeakerUrl
+    } else if (parsedUrl.pathname.startsWith(eventsPrefix)) {
+        target = eventsUrl;
     }
     proxy.web(req, res, { target })
-}).listen(port)
-
-proxy.on('error', (err, req, res) => {
-    res.writeHead(500, {
-        'Content-Type': 'text/plain'
+    proxy.on('error', (err, req, res) => {
+        res.writeHead(500, {
+            'Content-Type': 'text/plain'
+        })
+        console.log(err)
+        res.end(`Error on proxy ${err}`)
+    })
+    
+    proxy.on('proxyReq', (proxyReq, req, res) => {
+        // console.log(req)
     })
 
-    console.log(err)
-    res.end(`Error on proxy ${err}`)
-})
+}).listen(port)
 
-proxy.on('proxyReq', (proxyReq, req, res) => {
-    // console.log(proxyReq)
-    // console.log(req)
-})
 
 
 console.log(`Proxy running on port ${port}`)

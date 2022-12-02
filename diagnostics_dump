@@ -1,5 +1,4 @@
 
-Proxy running on port 5000
 URL {
   href: 'http://localhost:5000/job-board',
   origin: 'http://localhost:5000',
